@@ -1,0 +1,78 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Bootp limitations\
+RFC951\
+Ironically, written by Sun employee number one, but never actually used by Sun as bootp not powerful enough for their requirements.\
+\
+Only really works for static assignments by another route (perhaps to machines to limited to be able to store a static address), because no means to reclaim addresses that are no longer used\
+\
+Normally configured with a large table statically mapping MAC addresses to IP numbers.\
+\
+Obsolete for this reason. Some DHCP servers offer bootp for backwards compatibility: used\'85\
+\
+\
+\
+DHCP\
+Dynamic Host Configuration Protocol(RFC 2131)\
+Provides a means to lease a temporary IP number for a specified duration, as well as obtaining addresses mappings for routers, DNS, time servers, etc.\
+\
+Can also be used to inform devices of a statically allocated IP number\
+\
+Main means of allocating IPv4 addresses on LANs in 2018.\
+\
+\
+\
+DHCP Initial Operation\
+Client broadcasts a request for an IP number, including its MAC address or some other identifier (DHCPDISCOVER)\
+\
+Server(s) reserve an available IP number, and broadcast an offer of it with a lease time (how long IP number is valid for)(DHCPOFFER)\
+\
+client chooses from amongst offers, and broadcasts a reply containing chosen IP number (DHCPREQUEST)\
+\
+\'85\'85\
+\
+DHCPREQUEST\
+Initially, a broadcast containing the IP number (and other information) that the client as devided\
+\
+\
+\
+DHCP Request\
+But a client can also directly send a request to a known server, in order to renew a lease.\
+Conventionally, renewal attempts start after half the lease has passed.\
+\
+\
+DHCP Static v Pools\
+DHCP can work like bootp, always handing out the samp IP number for the same MAC address, to configure static machines.\
+\
+Or it can manage a pool of temporary addresses.\
+\
+Smart DHCP servers store the assignments so that if you ask for an address, you always get the same one from the pool unless it has been allocated to someone else in the meantime.\
+\
+Very smart DHCP servers can update DNS servers to record the name to IP binding.\
+\
+\
+DHCP Redundancy\
+Loss of DHCP server will wipe out your network.\
+But DHCP servers contain delicate state\
+\
+Simple home routers can be careless about this, and restart of router may require restart of client devices to get all state into agreement: hence typically use short lease times\
+\
+Choices include:\
+1.two DHCP servers managing disjoint pools and let client select (client IP numbers will change at random intervals)\
+2.you can have one server lag the other by a second to only be used in an emergency, which is a common trick\
+3.complex failover protocol so that both servers make the same offer and commit to the same lease(no standards, and implementations are rare)\
+4.using higher-level redundancy protocols to have one virtual server (probably best).\
+\
+\
+\
+DHCP Security\
+Obvious DoS: rapidly request leases, and then abandon them, so that the servers have no more addresses to hand out.\
+\
+Some servers have no, or unrealistic, release periods\
+\
+Colleague reports a xxxx is doing this regularly..}
