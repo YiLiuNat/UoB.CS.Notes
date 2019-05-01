@@ -25,6 +25,8 @@
 
 ## Intelligent Data Analysis 智能数据分析(IDA)
 ### Page Rank 网页排名算法
+前面还有...  
+
 [Simplified Page Rank 之马尔可夫模型对它的诠释](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/01.%20Simplified%20Page%20Rank.md)
 
 [Damping Factor 阻尼因子：给新生页面的补偿计划](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/02.%20Damping%20Factor.md)
