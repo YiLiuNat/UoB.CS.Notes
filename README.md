@@ -32,7 +32,7 @@
 
 [Damping Factor - 阻尼因子：给新生页面的权重补偿](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/02.%20Damping%20Factor.md)
 
-[Dangling Pages - 晃来晃去的网页：劳资没有任何文献！](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/03.%20Dangling%20Pages.md)
+[Dangling Pages - 晃来晃去的网页 (致那些没有任何文献的页面)](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/03.%20Dangling%20Pages.md)
 
 [总结 - 概率学上对Page Rank的阐述](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/04.%20summary.md)
 
