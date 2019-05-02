@@ -17,6 +17,7 @@
 <br/>
 
 ### Transport Layers - 传输层的奥妙
+
 [IP - 头文件的厉害](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/01.%20IP%EF%BC%8C%E5%A6%99%E4%B8%8D%E5%8F%AF%E8%A8%80.md)
 
 [IP中的分段 (Flags & Fragments)](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/02.%20IP%E4%B8%AD%E7%9A%84%E5%88%86%E6%AE%B5Flags%26Fragments.md)
@@ -29,8 +30,11 @@
 
 [Simplified Page Rank 之马尔可夫模型对它的诠释](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/01.%20Simplified%20Page%20Rank.md)
 
-[Damping Factor - 阻尼因子：给新生页面的补偿计划](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/02.%20Damping%20Factor.md)
+[Damping Factor - 阻尼因子：给新生页面的权重补偿](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/02.%20Damping%20Factor.md)
 
 [Dangling Pages - 晃来晃去的网页：劳资没有任何文献！](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/03.%20Dangling%20Pages.md)
 
 [总结 - 概率学上对Page Rank的阐述](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/04.%20summary.md)
+
+### Gaussian Mixture Models 高斯混合模型
+
