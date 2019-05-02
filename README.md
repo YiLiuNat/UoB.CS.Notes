@@ -41,3 +41,5 @@
 [Discrete Random Variables - 离散随机变量](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/05.%20Discrete%20Random%20Variables.md)
 
 [Gaussian/Continuous Random Variables - 连续(高斯)随机变量: 也就是正态分布](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/06.%20Gaussian%20Random%20Variables.md)
+
+[Gaussian PDF - 高斯概率密度函数](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/07.%20PDF.md)
