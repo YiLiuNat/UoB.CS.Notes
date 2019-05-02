@@ -38,4 +38,4 @@
 
 ### Gaussian Mixture Models 高斯混合模型
 
-[离散变量](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/05.%20Discrete%20Random%20Variables.md)
+[Discrete Random Variables - 离散随机变量](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/05.%20Discrete%20Random%20Variables.md)
