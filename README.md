@@ -42,4 +42,4 @@
 
 [Gaussian/Continuous Random Variables - 连续(高斯)随机变量: 正态分布](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/06.%20Gaussian%20Random%20Variables.md)
 
-[Gaussian PDF - 高斯概率密度函数](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/07.%20PDF.md)
+[Gaussian PDF - 高斯概率密度函数(两分钟教会你画图!)](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/07.%20PDF.md)
