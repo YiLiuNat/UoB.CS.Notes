@@ -38,6 +38,8 @@
 
 ### Gaussian Mixture Models 高斯混合模型
 
+一些前提条件(概率密度函数):
+
 [Discrete Random Variables - 离散随机变量](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/05.%20Discrete%20Random%20Variables.md)
 
 [Gaussian/Continuous Random Variables - 连续(or 高斯)随机变量: 正态分布](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/06.%20Gaussian%20Random%20Variables.md)
@@ -50,7 +52,7 @@
 
 [Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合(估算参数)](./IDA/09.%20fitData.md)
 
-下面进入正题：
+进入正题(高斯混合模型)：
 
 [Multi-modal Distributions & Gaussian Mixture Model - 多态分布&高斯混合模型](./IDA/10.%20MultiModal.md)
 
