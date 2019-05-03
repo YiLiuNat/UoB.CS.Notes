@@ -36,6 +36,8 @@
 
 [总结 - 概率学上对Page Rank的阐述](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/04.%20summary.md)
 
+<br/>
+
 ### Gaussian Mixture Models 高斯混合模型
 
 一些前提条件(概率密度函数):
