@@ -47,3 +47,5 @@
 [Gaussian PDF (2D+) - 带你进入高维世界](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20PDF2D.md)
 
 [Visualising Multivariate Gaussian PDF - 多方差PDF的可视化](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20visualising.md)
+
+[Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合](./IDA/09.%20fitData.md)
