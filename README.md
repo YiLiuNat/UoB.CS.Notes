@@ -27,6 +27,7 @@
 ## Intelligent Data Analysis 智能数据分析(IDA)
 ### Page Rank 网页排名算法(佩琦算法)
 
+只整理了最后几页的:
 
 [Simplified Page Rank 之马尔可夫模型对它的诠释](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/01.%20Simplified%20Page%20Rank.md)
 
