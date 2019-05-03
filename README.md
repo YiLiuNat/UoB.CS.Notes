@@ -48,6 +48,8 @@
 
 [Visualising Multivariate Gaussian PDF - 多方差PDF的可视化](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20visualising.md)
 
-[Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合](./IDA/09.%20fitData.md)
+[Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合(估算参数)](./IDA/09.%20fitData.md)
 
 [Multi-modal Distributions & Gaussian Mixture Model - 多态分布&高斯混合模型](./IDA/10.%20MultiModal.md)
+
+[Estimating the Parameters of a GMM - 估算GMM的参数](./IDA/11.%20EstimatingGMMpar)
