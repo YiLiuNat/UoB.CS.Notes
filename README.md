@@ -49,3 +49,5 @@
 [Visualising Multivariate Gaussian PDF - 多方差PDF的可视化](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20visualising.md)
 
 [Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合](./IDA/09.%20fitData.md)
+
+[Multi-modal Distributions - 多态分布: 好几个正态分布](./IDA/10.%20MultiModal.md)
