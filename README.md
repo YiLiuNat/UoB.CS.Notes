@@ -52,4 +52,4 @@
 
 [Multi-modal Distributions & Gaussian Mixture Model - 多态分布&高斯混合模型](./IDA/10.%20MultiModal.md)
 
-[Estimating the Parameters of a GMM - 估算GMM的参数](./IDA/11.%20EstimatingGMMpar)
+[Estimating the Parameters of a GMM - 估算GMM的参数](./IDA/11.%20EstimatingGMMpar.md)
