@@ -45,3 +45,5 @@
 [Gaussian PDF (1D) - 高斯概率密度函数 (两分钟教会你画图!)](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/07.%20PDF.md)
 
 [Gaussian PDF (2D+) - 带你进入高维世界](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20PDF2D.md)
+
+[Visualising Multivariate Gaussian PDF - 多方差PDF的可视化](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/IDA/08.%20visualising.md)
