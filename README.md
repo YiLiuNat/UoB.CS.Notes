@@ -50,7 +50,7 @@
 
 [Fitting a Gaussian PDF to Data - 将高斯PDF与数据组合(估算参数)](./IDA/09.%20fitData.md)
 
----
+下面进入正题：
 
 [Multi-modal Distributions & Gaussian Mixture Model - 多态分布&高斯混合模型](./IDA/10.%20MultiModal.md)
 
