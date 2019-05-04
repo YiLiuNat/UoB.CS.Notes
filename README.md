@@ -69,3 +69,4 @@
 ## HCI Case Studies 案例
 * [Tourist Information Centre Studies - 旅游问询中心案例 (脏又快的收集需求大法)](./HCI/01.%20Tourist.md)
 * [Information Probes: Design with Unconventional Users - 信息勘查：与非传统用户一起设计](./HCI/02.%20information.md)
+* [Autoethnography: Mobile Medical Technology - 模仿用户的行为：了解移动医疗设备的使用](./HCI/03.%20Autoethnography.md)
