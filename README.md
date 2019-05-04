@@ -67,4 +67,4 @@
 
 
 ## HCI Case Studies 案例
-* [Tourist Information Centre Studies](./HCI/1.%20Tourist.md)
+* [Tourist Information Centre Studies - 旅游问询中心案例 (脏又快的收集需求大法)](./HCI/1.%20Tourist.md)
