@@ -61,3 +61,9 @@
 
 * [Estimating the Parameters of a GMM - 估算GMM的参数](./IDA/11.%20EstimatingGMMpar.md)
 	* [E-M Algorithm 分割数据的妙招](./IDA/12.%20E-M%20Algorithm.md)
+
+<br/>
+
+
+
+## HCI Case Studies 案例
