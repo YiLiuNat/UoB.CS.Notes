@@ -67,4 +67,5 @@
 
 
 ## HCI Case Studies 案例
-* [Tourist Information Centre Studies - 旅游问询中心案例 (脏又快的收集需求大法)](./HCI/1.%20Tourist.md)
+* [Tourist Information Centre Studies - 旅游问询中心案例 (脏又快的收集需求大法)](./HCI/01.%20Tourist.md)
+* [Information Probes: Design with Unconventional Users - 信息勘查：与非传统用户一起设计](./HCI/02.%20information.md)
