@@ -22,7 +22,10 @@
 
 * [IP中的分段 (Flags & Fragments)](https://github.com/YiLiuNat/UoB.CS.Notes/blob/master/Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/02.%20IP%E4%B8%AD%E7%9A%84%E5%88%86%E6%AE%B5Flags%26Fragments.md)
 
-* [(往期考点) Path MTU Discovery - 路径MTU发现：寻找两台主机之间最小MTU](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/03.%20PathMTU.md)
+* [(往期考题) Path MTU Discovery - 路径MTU发现：寻找两台主机之间最小MTU](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/03.%20PathMTU.md)
+
+* [IPv4的32位地址](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/04.%20IPv432.md)
+
 
 <br/>
 
