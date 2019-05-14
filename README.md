@@ -26,7 +26,7 @@
 
 * [(重要考点)IPv4中的32位地址，以及地址分类那些破事](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/04.%20IPv432.md)
 
-* [Sub-Netting - 子网](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/05.%20sub-net)
+* [Sub-Netting - 子网](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/05.%20sub-net.md)
 
 <br/>
 
