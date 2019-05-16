@@ -32,7 +32,7 @@
 * [IPv6 - 大量的地址](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/07.%20IPv6.md)
 	* [IPv6本质上是64位](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/08.%20IPv664.md)
 
-* [以太网中的IP](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/09.%20IPEthernet.md)
+* [以太网中的IP以及如何中转等杂事](./Networks/05.%20Transport%20Layers%20-%20%E4%BC%A0%E8%BE%93%E5%B1%82%E7%9A%84%E5%A5%A5%E5%A6%99/09.%20IPEthernet.md)
 <br/>
 
 ## Intelligent Data Analysis 智能数据分析(IDA)
